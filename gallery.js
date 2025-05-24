@@ -52,16 +52,16 @@ window.onload = () => {
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo85.luvle.kr",
-          webUrl: "https://mo85.luvle.kr",
+          mobileWebUrl: "https://mo87.luvle.kr",
+          webUrl: "https://mo87.luvle.kr",
         },
       },
       buttons: [
         {
           title: "모바일청첩장 보러가기",
           link: {
-            mobileWebUrl: "https://mo85.luvle.kr",
-            webUrl: "https://mo85.luvle.kr",
+            mobileWebUrl: "https://mo87.luvle.kr",
+            webUrl: "https://mo87.luvle.kr",
           },
         },
       ],
